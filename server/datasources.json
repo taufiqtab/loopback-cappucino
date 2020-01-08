@@ -1,0 +1,12 @@
+{
+  "kulkas": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "loopback_seduh",
+    "password": "",
+    "name": "kulkas",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
